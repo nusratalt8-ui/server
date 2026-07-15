@@ -1,0 +1,17 @@
+{
+  "name": "default",
+  "vars": {
+    "desktop": "#6e7e87",
+    "window-face": "#ece9e2",
+    "edge-light": "#ffffff",
+    "edge-dark": "#6b6459",
+    "titlebar": "#5b6e64",
+    "titlebar-text": "#ffffff",
+    "text": "#2a2a28",
+    "muted": "#6f6a60",
+    "input-bg": "#ffffff",
+    "accent": "#c2734e",
+    "sidebar": "#3d4a44",
+    "sidebar-text": "#e8e6df"
+  }
+}
